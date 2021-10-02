@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heyixin1997
+- 👋 Hi, I’m HeYixin
 - 👀 I’m interested in fishing
 - 🌱 I’m currently learning manipulator and controller of active inference
 - 💞️ I’m looking to collaborate on ...
